@@ -14,4 +14,4 @@ X to delete a note.
 A music note must be selected in order to move and delete the note.
 
 ### Date created : Wed, 14 Oct 2020
-### Date prototype released : Sat, 24, Oct 2020
+### Date prototype released : Sat, 24 Oct 2020
